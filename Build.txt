@@ -4,7 +4,7 @@ zip=""
 
 name="new build"
 version="1.0"
-url="=https://www.dropbox.com/scl/fi/esdt3od6qi08pwada0tzn/Kodi1.zip?rlkey=d2umadt08khplhsi44c0p0s8m&st=enkm0v6d&dl=1"
+url="=https://www.dropbox.com/scl/fi/esdt3od6qi08pwada0tzn/Kodi1.zip?rlkey=q70g83z4awmbgi8svrfjcdgqx&st=sd5o2cy2&dl=1"
 minor="http://"
 gui="http://your.guisettings.url/"
 kodi="20"
